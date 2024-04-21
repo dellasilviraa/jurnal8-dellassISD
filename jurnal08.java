@@ -104,3 +104,4 @@ public class jurnal08 {
         dataMahasiswa.tampilkanSemuaNilai();
     }
 }
+//jurnal08
